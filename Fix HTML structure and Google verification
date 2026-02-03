@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Google Site Verification -->
+  <meta name="google-site-verification" content="pclpFcxXqOEtsZFuSv8OIG_EUjZD457ykapl5yUrBBo" />
+
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Daily Islamic Quotes - Inspiring Quran & Hadith Quotes</title>
+
+  <!-- SEO -->
+  <meta name="description" content="Discover beautiful Islamic quotes from the Quran and Hadith. Daily inspiration for Muslims worldwide." />
+  <meta name="keywords" content="Islamic quotes, Quran quotes, Hadith quotes, Islamic reminders, daily duas" />
+  <meta name="author" content="Daily Islamic Quotes" />
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Daily Islamic Quotes - Inspiring Quran & Hadith Quotes" />
+  <meta property="og:description" content="Discover beautiful Islamic quotes from the Quran and Hadith." />
+  <meta property="og:site_name" content="Daily Islamic Quotes" />
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Daily Islamic Quotes - Inspiring Quran & Hadith Quotes" />
+  <meta name="twitter:description" content="Discover beautiful Islamic quotes from the Quran and Hadith." />
+</head>
+
+<body>
+  <div id="root"></div>
+  <script type="module" src="/src/main.tsx"></script>
+</body>
+</html>
